@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubyDungSharp", "RubyDungSharp\RubyDungSharp.csproj", "{44D3D7DC-1723-4557-B670-E90DA85E5ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D3D7DC-1723-4557-B670-E90DA85E5ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D3D7DC-1723-4557-B670-E90DA85E5ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D3D7DC-1723-4557-B670-E90DA85E5ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D3D7DC-1723-4557-B670-E90DA85E5ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525AFC38-C58E-47BF-A4BC-58CA3AEE3B51}
+	EndGlobalSection
+EndGlobal
